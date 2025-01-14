@@ -20,15 +20,7 @@ tabBtn.addEventListener('click',()=>{
         localStorage.setItem("myLeads",JSON.stringify(myLeads))
         render()
     })
-
-
-
-
 })
-
-
-
-
 
 saveBtn.addEventListener('click',()=>{
 
